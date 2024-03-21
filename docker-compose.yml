@@ -1,7 +1,7 @@
 version: '3'
 services:
   web:
-    image: fengyuecanzhu/fqweb-server
+    image: Moleys/fqweb-server
     container_name: fqweb-server
     ports:
       - "5000:5000"
